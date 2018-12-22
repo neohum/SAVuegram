@@ -1,3 +1,8 @@
+#이 작업은 Vuegram이라는 튜토리얼을 수정한 것입니다.
+>전체 소스를 빌드했을 때 에러나는 부분을 찾아 수정한 파일을 보관용으로 올린 것입니다.
+>자세한 사항들은 아래에 있는 사이트를 참고하세요
+
+
 # Vuegram
 
 > A simple social media web app built with Vue.js and Firebase's Cloud Firestore as a way to teach people how to build a real-world app using the two technologies. Follow along with our tutorial, [Building a Real-World Web App With Vue.js and Firebase](http://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase), to learn core Vue.js concepts and build this project.
